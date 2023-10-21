@@ -148,7 +148,7 @@ ingredients.innerHTML=`<h3>Ingredients</h3>` + " ";
     var p =document.createElement("p")
     p.innerHTML= ingredient;
 
-    ingredients.appendChild(p)
+    ingredients.appendChild(p) 
   }
 }
 }
